@@ -1,0 +1,2 @@
+plugin_path: ../plugins/restapi/restapi.so
+handler_symbol: Handler
